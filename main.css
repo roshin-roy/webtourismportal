@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+h1,h3{
+    margin-top: 25px;
+    
+    margin-left: 25px;
+    
+}
+p{
+    float: left;
+    font-size: larger;
+    font-style: inherit;
+    margin: 25px;
+}
+.abc{
+    
+    text-align: left;
+}
+img{
+    max-width: 100%;
+    
+    max-block-size: 75%;
+}
+.a:hover{
+    background-color: white;
+    opacity: 50%;
+    text-transform: ;
+}

@@ -1,0 +1,26 @@
+/* header{
+    background-color: rgb(181, 245, 181);
+     */
+    
+}
+.color{
+    
+    color: rgba(0, 0, 0, 0.719);
+}
+
+.centre{
+    margin-top: 4px;
+    margin-left: 4px;
+}
+h1,h3{
+    margin-top: 25px;
+    
+    margin-left: 25px;
+    
+}
+p{
+    float: left;
+    font-size: larger;
+    font-style: inherit;
+    margin: 25px;
+}

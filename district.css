@@ -1,0 +1,31 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+header{
+    
+    
+  padding: 25s0px;
+  text-align: center;
+  background: white;
+  color: white;
+  font-size: 20px;
+    
+}
+.centre{
+    margin-top: 4px;
+    margin-left: 4px;
+}
+.color{
+    
+    color: rgba(0, 0, 0, 0.719);
+}
+.mar{
+    margin-left: 4%;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
